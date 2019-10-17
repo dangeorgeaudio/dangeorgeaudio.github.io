@@ -174,8 +174,9 @@ img {
 
 .scene3 {
   width: 100%;
-  margin-top: 90vh;
-  margin-bottom: 40vh;
+  margin-top: auto;
+  margin-bottom: auto;
+  height: 100%;
 }
 
 .portfolio div {
